@@ -1,6 +1,6 @@
 # Hayk Khulyan
 Hello! I'm a **5th** year Computer Science student here at UCSD. I transferred from [Pasadena City College](https://pasadena.edu/) in 2020 and am looking to 
-graduate sometime during my 6th year. 
+graduate sometime during my 6th year. These are some of my [favorite things](https://haykthekhulyan.github.io/Lab0/#favorites)
 
 ### Interests
 
@@ -18,6 +18,8 @@ Some of my interests include:
 My favorite quote from It's Always Sunny in Philadelphia is:
 
 > ‘Just get a job?’ Why don’t I strap on my job helmet and squeeze down into a job cannon, and fire off into job land, where jobs grow on jobbies?!
+
+One of my favorite scenes in It's Always Sunny in Philadelphia is [this one](/images/pepe%20silvia.jpeg)
 
 My favorite Python function is the following: 
 ```
