@@ -11,3 +11,9 @@ Some of my interests include:
 - Deckbuilding Video Games
 - Juggling
 - It's Always Sunny in Philadelphia
+
+### Favorites
+
+My favorite quote from It's Always Sunny in Philadelphia is:
+
+> ‘Just get a job?’ Why don’t I strap on my job helmet and squeeze down into a job cannon, and fire off into job land, where jobs grow on jobbies?!
