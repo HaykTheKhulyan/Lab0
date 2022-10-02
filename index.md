@@ -11,6 +11,7 @@ Some of my interests include:
 - Deckbuilding Video Games
 - Juggling
 - It's Always Sunny in Philadelphia
+- Metal music
 
 ### Favorites
 
@@ -22,3 +23,13 @@ My favorite Python function is the following:
 ```
 print()
 ```
+
+My 3 favorite bands at the moment are:
+1. Mastodon
+2. Gojira
+3. The Arctic Monkeys
+
+Of these 3 bands, I have seen the following live:
+- [x] Mastodon
+- [ ] Gojira
+- [x] The Arctic Monkeys
